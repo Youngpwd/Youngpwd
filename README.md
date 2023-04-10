@@ -1,4 +1,4 @@
-# Hello, My name is Charles Young
+# Hello, My name is Charles Young <img src="https://www.codewars.com/users/Youngpwd/badges/small" />
 ## My Experience
 ### Programming Languages:
 <p>
