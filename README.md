@@ -19,7 +19,7 @@
 ### Self-Taught:
  - MUI, React Router, Next.js, Tailwind
 
-## 🚀 Skills
+## 🚀Coding Skills
 
 ### Languages:
 <p>
