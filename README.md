@@ -10,14 +10,9 @@
 ## 🎓Education/Training
  - US Navy (2015-2017) 
    - Received comprehensive training in electronic circuits, systems, troubleshooting and maintenance, as well as computer hardware essentials, digital data communications, Linux/Unix, Cisco IOS and network fundamentals
- - Codecademy (2022 - present)
+ - Codecademy (2022 - 2023)
    - Full-Stack Engineer Career course
       - (HTML, CSS, JS, React, Redux, Node, Express, Git/Github)
-   - Bootstrap Course
-   - JQuery Course
-
-### Self-Taught:
- - MUI, React Router, Next.js, Tailwind
 
 ## 🚀Coding Skills
 
@@ -44,18 +39,6 @@
 <p>
    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-</p>
-
-### Databases:
-
-### What I Plan to Learn:
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ## Stats
