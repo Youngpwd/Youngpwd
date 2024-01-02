@@ -10,7 +10,7 @@
 ## 🎓Education/Training
  - US Navy (2015-2017) 
    - Received comprehensive training in electronic circuits, systems, troubleshooting and maintenance, as well as computer hardware essentials, digital data communications, Linux/Unix, Cisco IOS and network fundamentals
- - Codecademy (2022 - 2023)
+ - Codecademy (2021 - 2023)
    - Full-Stack Engineer Career course
       - (HTML, CSS, JS, React, Redux, Node, Express, Git/Github)
 
