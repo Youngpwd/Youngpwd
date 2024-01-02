@@ -46,5 +46,3 @@
 ![Charles GitHub stats](https://github-readme-stats.vercel.app/api?username=Youngpwd&theme=radical&show_icons=true)
 
 <br>
-
-<img src="https://www.codewars.com/users/Youngpwd/badges/large" />
