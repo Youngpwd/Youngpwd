@@ -1,11 +1,4 @@
-# Hi there, I'm Charles Young! 👋
-
-## 💼 Professional experience:
-- Fire Controlman (Aegis) 2nd Class, Aegis Computer Network Technician (7.2A) at US Navy (June 2015 - June 2021)
-  - Responsible for preventive and corrective maintenance of Aegis computer network systems and equipment, including hardware and software troubleshooting, repair, and replacement
-  - Served in a supervisory role, overseeing junior technicians and providing on-the-job training and guidance
-  - Collaborated with other departments to ensure seamless integration and operation of network systems
-  - Maintained accurate records of maintenance and repair work performed, ensuring compliance with established policies and procedures
+# Hi there, I'm Charles! 👋
 
 ## 🎓Education/Training
  - US Navy (2015-2017) 
