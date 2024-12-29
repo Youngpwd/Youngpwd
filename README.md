@@ -7,7 +7,7 @@
    - Full-Stack Engineer Career course
       - (HTML, CSS, JS, React, Redux, Node, Express, Git/Github)
 
-## 🚀Coding Skills
+## 🚀Coding Skills 
 
 ### Languages:
 <p>
@@ -27,6 +27,7 @@
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
 </p>
+<p>Ive only really scratched the surface with these, im far from being proficient.</p>
 
 ### Backend frameworks and libraries:
 <p>
