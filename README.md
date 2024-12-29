@@ -17,6 +17,7 @@
  </p>
  
  ### Frontend frameworks and libraries:
+ <p>Ive only really scratched the surface with these, im far from being proficient.</p>
  <p>
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -27,7 +28,7 @@
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
 </p>
-<p>Ive only really scratched the surface with these, im far from being proficient.</p>
+
 
 ### Backend frameworks and libraries:
 <p>
